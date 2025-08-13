@@ -1,3 +1,2 @@
-Rename the MyNewProject folder 
-Right click and add a new source file
-Start programming
+In the explorer, rename the MyNewProject folder 
+Open the main.py file and start writing your code

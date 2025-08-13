@@ -1,0 +1,9 @@
+Extensions installed on Codespaces: ReadySetCode:
+github.codespaces
+github.github-vscode-theme
+github.vscode-pull-request-github
+ms-python.debugpy
+ms-python.flake8
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
